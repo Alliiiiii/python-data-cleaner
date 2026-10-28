@@ -1,0 +1,16 @@
+﻿customer_name,email,phone,signup_date,city,country,order_amount_rs,status
+Ayesha Khan,ayesha.khan@gmail.com,+923001234567,2025-05-13,Karachi,Pakistan,12500,Active
+Bilal Ahmed,bilal.ahmed@outlook.com,+923217654321,2025-02-11,Hyderabad,Pakistan,8000,Active
+Sana Malik,sana.malik@yahoo.com,+923331112233,2025-01-05,Lahore,Pakistan,25750.5,Active
+Usman Ali,usman.ali@gmail.com,+923451239876,2025-07-22,Jamshoro,Pakistan,,Inactive
+Fatima Noor,fatima.noor@gmail.com,+923129988776,2025-08-30,Sukkur,Pakistan,15000,Active
+Hassan Raza,hassan.raza@company.pk,+923015554433,2024-12-01,Karachi,Pakistan,-2500,Inactive
+Zainab Shah,zainab.shah@gmail.com,+923334445566,2025-03-17,Larkana,Pakistan,9999,Active
+Omar Farooq,omar.farooq@hotmail.com,+923221239870,2025-09-09,Lahore,Pakistan,31200,Active
+Mariam Siddiqui,mariam.s@gmail.com,+923156677889,2025-11-14,Karachi,Pakistan,7450,Active
+Imran Qureshi,imran.qureshi@gmail.com,+923002223344,2025-06-01,Hyderabad,Pakistan,18000,Active
+Hina Baloch,hina.baloch@gmail.com,+923458889900,2025-02-28,Quetta,Pakistan,,Inactive
+Danish Memon,danish.memon@gmail.com,+923317776655,2025-04-19,Jamshoro,Pakistan,42300,Active
+Noor Jehan,noor.jehan@gmail.com,+923021010101,not sure,Karachi,Pakistan,5000,Active
+Kamran Abbasi,kamran.abbasi.gmail.com,+923112020202,2024-12-12,Islamabad,Pakistan,6100,Active
+Sara Lund,sara.lund@example.co.uk,+447700900123,2025-03-04,London,United Kingdom,14800,Active
